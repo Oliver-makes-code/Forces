@@ -1,2 +1,2 @@
 # Forces
-A top-down RPG written in Godot
+A 2d platformer for Godot
